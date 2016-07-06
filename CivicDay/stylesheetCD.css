@@ -9,3 +9,27 @@ h1 {
 div {
     border-radius:6px;
 }
+.Clothing {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR36ICtlYBSErKqXxzaty0WHd-kLRTEqfAUbUPrdq87mUAHfbn5CQ);
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+	text-shadow: 0 2px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica';
+}
+
+p {
+	color:black;
+	font-size: 2em;
+}
+
+.Clothing a {
+	color:red;
+	font-size: 24px;
+	text-decoration: none;
+}
+h2 {
+	color:black;
+	font-size: 56px; 
+}
